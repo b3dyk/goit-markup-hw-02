@@ -82,6 +82,8 @@ body {
 .hero .button {
   color: var(--white-text-color);
   background-color: var(--accent-color);
+
+  cursor: pointer;
 }
 
 .pecs-list .title {
